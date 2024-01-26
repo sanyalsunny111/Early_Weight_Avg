@@ -1,5 +1,6 @@
 # Early Weight Averaging 
-Pre-train Large Language Models (LLMs) faster with Early Weight Averaging. For more details, refer to our paper: [Early Weight Averaging meets High Learning Rates for LLM Pre-training]([https://www.example.com/deep_learning.pdf](https://arxiv.org/abs/2306.03241)).
+Pre-train Large Language Models (LLMs) faster with Early Weight Averaging. For more details, refer to our paper: 
+[Early Weight Averaging meets High Learning Rates for LLM Pre-training](https://www.example.com/deep_learning.pdf](https://arxiv.org/abs/2306.03241).
 
 
 ## Abstract
