@@ -59,12 +59,12 @@ If you find this work helpful, please consider citing us:
 
 ```
 @inproceedings{
-sanyal2023early,
+sanyal2024early,
 title={Early Weight Averaging meets High Learning Rates for {LLM} Pre-training},
-author={Sunny Sanyal and Atula Neerkaje and Jean Kaddour and Abhishek Kumar and Sujay Sanghavi},
-booktitle={Workshop on Advancing Neural Network Training: Computational Efficiency, Scalability, and Resource Optimization (WANT@NeurIPS 2023)},
-year={2023},
-url={https://openreview.net/forum?id=I2aJVWHA93}
+author={Sunny Sanyal and Atula Tejaswi Neerkaje and Jean Kaddour and Abhishek Kumar and sujay sanghavi},
+booktitle={First Conference on Language Modeling},
+year={2024},
+url={https://openreview.net/forum?id=IA8CWtNkUr}
 }
 ```
 
