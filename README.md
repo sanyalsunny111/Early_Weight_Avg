@@ -28,7 +28,7 @@ Note: The above scripts automatically saves checkpoints at a specified interval.
 
 Run LAWA on already saved checkpoints:
 ```bash
-torchrun --standalone --nproc_per_node=3 lawa.py
+python lawa.py
 ```
 Please refer to the large and medium configurations of the EMA scripts for running large and medium versions SWA and LAWA.
 
